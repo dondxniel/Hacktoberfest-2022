@@ -7,7 +7,10 @@ You can contribute to this repo by performing any of the following actions:
 3. Suggesting features 
 4. Editing documentation
 
-#Adding a feature.
+#2. Debugging existing features. 
 
-This repo is going to be about primitive data types processing, so all its features should circulate around that.
-This repo is basically going to be typescript based, so all features should be written in typescript.
+To debug existing features, features need to exist, so wait patiently till people start writing code that is inline with the repo's vision and get merged. 
+
+To debug existing features, you'd need to create a fork of the project and clone to your local computer. 
+Then test and figure out the buggy modules. 
+
